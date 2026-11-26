@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 690">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+  </defs>
+
+  <rect width="690" height="690" fill="url(#bgGrad)" />
+  <circle cx="345" cy="345" r="248" fill="#10b981" fill-opacity="0.14" stroke="url(#accentGrad)" stroke-width="14" />
+  <text x="345" y="326" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Arial, sans-serif" font-size="184" font-weight="800" fill="#10b981" text-anchor="middle">5%</text>
+  <text x="345" y="456" font-family="system-ui, -apple-system, &#39;Segoe UI&#39;, Roboto, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="4" fill="#38bdf8" text-anchor="middle">FX • PLAN</text>
+</svg>
